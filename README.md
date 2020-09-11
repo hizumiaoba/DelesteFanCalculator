@@ -1,0 +1,2 @@
+# DelesteFanCalculator
+デレステのファン活支援ソフトです
